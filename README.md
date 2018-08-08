@@ -37,7 +37,7 @@ Known Issues
 Author
 ------
 
-the other anonymous <ssinclair00073@gmail.com>
+the other anonymous
 
 
 Acknowledgments
